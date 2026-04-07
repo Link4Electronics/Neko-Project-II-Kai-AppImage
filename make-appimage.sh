@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/xnp2kai.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/xnp2kai_sdl2
+quick-sharun /usr/bin/xnp2kai_sdl2 /usr/bin/xnp21kai_sdl2 /usr/bin/xnp21kai_HAXM_sdl2
 
 # Additional changes can be done in between here
 
