@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=xNP21kai IA-32
+GenericName=PC-9821 Emulator IA-32
+GenericName[ja]=PC-9821エミュレータ IA-32
+Comment=PC-9821 Emulator IA-32
+Comment[ja]=PC-9821エミュレータ IA-32
+Exec=xnp21kai
+Icon=np2
+StartupWMClass=
+Terminal=false
+Categories=Game;Emulator;
+Name[ja]=xNP21kai IA-32
