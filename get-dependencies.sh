@@ -8,7 +8,9 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     libcdio-paranoia \
-    libdecor
+    libdecor         \
+    wxwidgets-common \
+    wxwidgets-gtk3
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
