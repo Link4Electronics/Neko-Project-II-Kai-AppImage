@@ -9,6 +9,7 @@ echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     libcdio-paranoia \
     libdecor         \
+    sdl3             \
     wxwidgets-common \
     wxwidgets-gtk3
 
